@@ -37,7 +37,9 @@
     },
     "versionFirst": "4.0.17",
     "uniqCompNum": 24,
-    "versionPublish": "4.0.17"
+    "versionPublish": "4.0.17",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
